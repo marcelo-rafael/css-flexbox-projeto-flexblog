@@ -4,4 +4,4 @@ Assim você não precisará mais definir valores fixos e flutuar elementos para 
 Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. 
 Após estes vamos criar um projeto real para colocarmos em prática o aprendizado.
 
-Projetos práticos do curso CSS Flexbox da Origamid
+Projetos práticos do curso CSS Flexbox da Origamid - https://marcelo-rafael.github.io/flexblog/.
